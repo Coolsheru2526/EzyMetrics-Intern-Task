@@ -145,9 +145,3 @@ This backend API is designed for EzyMetrics to manage and report on lead and cam
 └── .env                # Environment variables
 ```
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to update the `<repository_url>` placeholder in the README with your actual repository URL.
