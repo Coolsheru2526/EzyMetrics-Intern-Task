@@ -19,7 +19,7 @@ This backend API is designed for EzyMetrics to manage and report on lead and cam
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Coolsheru2526/EzyMetrics-Intern-Task.git
    cd EzyMetrics-backend
    ```
 
